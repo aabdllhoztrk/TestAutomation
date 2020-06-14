@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="0" result="Failed" label="Invalid" total="0" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.11.1.0" clr-version="4.0.30319.42000" start-time="2020-06-14 20:51:03Z" end-time="2020-06-14 20:51:04Z" duration="0.969138">
+  <command-line><![CDATA["C:\ProgramData\chocolatey\lib\nunit-console-runner\tools\nunit3-console.exe" TestforJenkins\\bin\\Debug\\TestforJenkins.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1000" name="TestforJenkins.dll" fullname="C:\Users\user\Documents\TestAutomation\TestforJenkins\bin\Debug\TestforJenkins.dll" runstate="NotRunnable" testcasecount="0" result="Failed" label="Invalid" site="SetUp" start-time="2020-06-14 20:51:04Z" end-time="2020-06-14 20:51:04Z" duration="0.155578" total="0" passed="0" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="3.12.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.18363.0" platform="Win32NT" cwd="C:\Users\user\Documents\TestAutomation" machine-name="DESKTOP-I5009UV" user="user" user-domain="DESKTOP-I5009UV" culture="tr-TR" uiculture="tr-TR" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\user\Documents\TestAutomation" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.6.1" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="RuntimeFramework" value="net-4.0" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_SKIPREASON" value="No test fixtures were found." />
+      <property name="_PID" value="23204" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <failure>
+      <message><![CDATA[No test fixtures were found.]]></message>
+    </failure>
+  </test-suite>
+</test-run>
